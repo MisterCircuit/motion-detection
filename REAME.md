@@ -1,1 +1,3 @@
-Circuit diagram ![alt text](image.png)
+Circuit diagram 
+
+![alt text](image.png)
