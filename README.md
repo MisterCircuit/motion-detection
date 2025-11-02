@@ -50,12 +50,12 @@ When no motion is detected:
 
 ## ⚙️ Breadboarding
 
-📌 ![alt text](image.png)
+📌 ![alt text](guide/image.png)
 
 ---
 
 ## ⚙️ Schematic
-![alt text](image-1.png)
+![alt text](guide/image-1.png)
 
 ---
 ## 🚀 How It Works
