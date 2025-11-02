@@ -3,6 +3,11 @@
 This project uses a PIR motion sensor to detect human motion and trigger a solenoid lock. A buzzer and LED are used for alert indication. The system is designed for smart security applications such as door access control, safes, and restricted-zone entry.
 
 ---
+📌 For full setup & reproduction instructions, see the guide here:
+
+👉 [How to Reproduce This Project](guide/README.md)
+
+---
 
 ## 🧠 Project Overview
 
