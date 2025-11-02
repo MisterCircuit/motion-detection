@@ -43,12 +43,16 @@ When no motion is detected:
 
 ---
 
-## ⚙️ Circuit Diagram (to be added)
+## ⚙️ Breadboarding
 
 📌 ![alt text](image.png)
 
 ---
 
+## ⚙️ Schematic
+![alt text](image-1.png)
+
+---
 ## 🚀 How It Works
 
 1. PIR detects infrared radiation change when a person enters its range  
