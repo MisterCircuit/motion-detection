@@ -45,7 +45,7 @@ When no motion is detected:
 
 ## ⚙️ Circuit Diagram (to be added)
 
-📌 *Wiring details will be included once schematic image is uploaded.*https://github.com/MisterCircuit/motion-detection/blob/main/image.png
+📌 ![alt text](image.png)
 
 ---
 
@@ -58,52 +58,6 @@ When no motion is detected:
 
 ---
 
-## 🧩 Arduino Sketch
-
-```cpp
-// Add your Arduino code here once completed
-
-
-# 🚀 Project Title
-
-A brief description of what this project does and who it's for.
-
-## 📖 Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Demo](#demo)
-- [Technologies](#technologies)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Authors](#authors)
-
-## 🧾 About
-Explain what the project is for, the motivation, and what problem it solves.
-
-## ✨ Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## 🛠 Installation
-```bash
-# clone the repo
-git clone https://github.com/your-username/repo-name.git
-
-# navigate to project
-cd repo-name
-
-# install dependencies
-npm install
 
 
 
-
-
-Circuit  diagram 
-Download Fritzing app here https://arduinofactory.fr/en/download-fritzing-for-free/
-
-![alt text](image.png)
