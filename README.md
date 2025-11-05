@@ -1,12 +1,14 @@
 # 🔐 Motion Detection Solenoid Lock System using PIR & Arduino Nano
 
-This project uses a PIR motion sensor to detect human motion and trigger a solenoid lock. A buzzer and LED are used for alert indication. The system is designed for smart security applications such as door access control, safes, and restricted-zone entry.
+This project uses a PIR motion sensor to detect human motion and trigger a solenoid lock. A buzzer and LED are used for alert indication. The system is designed for smart security applications such as door access control, safes, and restricted-zone entry. 
+
 
 ---
 📌 For full setup & reproduction instructions, see the guide here:
 
 👉 [How to Reproduce This Project](guide/README.md)
-
+---
+[Find Fritzing file here](Fritzing/motion-detection.fzz)
 ---
 
 ## 🧠 Project Overview
@@ -58,6 +60,7 @@ When no motion is detected:
 ![alt text](guide/image-1.png)
 
 ---
+
 ## 🚀 How It Works
 
 1. PIR detects infrared radiation change when a person enters its range  
